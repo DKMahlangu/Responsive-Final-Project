@@ -19,7 +19,7 @@ body {
   padding: 7px;
   border-radius: 9px;
 }
-.navbar-toggler {
+button.navbar-toggler {
   border: var(--secondary-color) solid;
 }
 .intro {
@@ -152,7 +152,7 @@ text-align: center;
 padding: 5px;
 width: 93%;
 }
-button {
+.contact-button {
   font-size: 18px;
   padding: 10px 25px;
   border-radius: 15px;
@@ -160,7 +160,7 @@ button {
   color: var(--secondary-color);
   background-color: var(--third-color);
 }
-button:hover{
+.contact-button:hover{
   background-color:#d6b7b5;
 }
 h5 {
