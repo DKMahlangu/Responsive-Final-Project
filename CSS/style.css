@@ -116,7 +116,7 @@ p {
   padding: 30px 8px;
 }
 .project-paragraph {
-  padding: 20px 12px;
+  padding: 14px 8px;
   margin: 20px;
 }
 
@@ -209,7 +209,7 @@ textarea {
     font-size: 18px;
   }
   span{
-    padding-left: 200px;
+    padding-left: 180px;
   }
 
   .homepage-link,
@@ -225,7 +225,7 @@ textarea {
   }
   .project-paragraph {
     font-size: 10px;
-    margin: 0 8px;
+    margin: 0 5px;
   }
   img {
     width: 140px;
